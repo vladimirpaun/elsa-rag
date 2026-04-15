@@ -1,0 +1,20 @@
+{
+  "documents": [
+    {
+      "documentId": "mci-training-01",
+      "title": "Formation interne - Diagnostic compresseur",
+      "pages": [
+        "Le modèle XR-220 nécessite une vérification du différentiel d'huile avant redémarrage.",
+        "En cas d'alarme HP, contrôler en priorité le condenseur et la ventilation."
+      ]
+    },
+    {
+      "documentId": "constructor-doc-14",
+      "title": "Manuel constructeur FroidPro 14",
+      "pages": [
+        "Le code erreur E17 indique une sonde évaporateur hors plage.",
+        "Pour la version v3.2, appliquer la procédure de recalibrage chapitre 7."
+      ]
+    }
+  ]
+}
